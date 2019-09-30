@@ -1,0 +1,3 @@
+En primer lloc caldrà que us doneu d'alta a GitHub.
+
+Crea un repositori de nom: NomAssignatura_NomAlumne
